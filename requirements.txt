@@ -1,0 +1,29 @@
+aiohttp==3.9.5
+aiosignal==1.3.1
+async-timeout==4.0.3
+attrs==23.2.0
+black==24.4.2
+click==8.1.7
+contourpy==1.2.1
+cycler==0.12.1
+fonttools==4.51.0
+frozenlist==1.4.1
+idna==3.7
+kiwisolver==1.4.5
+# Editable Git install with no remote (mapedge==0)
+-e /home/martijn/Documents/work/2023-08_synthesis/mapedge/src
+matplotlib==3.8.4
+multidict==6.0.5
+mypy-extensions==1.0.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+packaging==24.0
+pathspec==0.12.1
+pillow==10.3.0
+platformdirs==4.2.1
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+six==1.16.0
+tomli==2.0.1
+typing_extensions==4.11.0
+yarl==1.9.4
