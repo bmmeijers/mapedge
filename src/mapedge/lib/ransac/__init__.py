@@ -10,10 +10,10 @@ from mapedge.lib.fit.fitting import fit_line
 from .distance import calculate_distances
 
 # for stats / distances
-from itertools import combinations
-from math import hypot
+# from itertools import combinations
+# from math import hypot
 
-import sys
+# import sys
 
 
 def pixels_cm(pix, dpi=200):
