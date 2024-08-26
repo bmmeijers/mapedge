@@ -101,7 +101,7 @@ class RimPoint:
         self.rim_side = rim_side
 
     def __str__(self):
-        return f"{self.x} | {self.y} | {self.frame_type} | {self.rim_side}"
+        return f"{self.x} | {self.y} | {self.setting_type} | {self.frame_type} | {self.rim_side}"
 
 
 def trace(file_name, sheet_id, settings):
